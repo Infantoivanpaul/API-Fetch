@@ -1,0 +1,15 @@
+.nav {
+    margin-top: 20px;
+    background-color: #0085FE;
+    height: 50px !important;
+}
+.card {
+    width: 330px !important;
+    height: 210px !important;
+    margin-top: 35px;
+    margin-left: 25px;
+    border: 3px solid teal !important;
+    background-color: #9AEFF4 !important;
+    box-shadow: 6px 6px 10px #808080a5;
+}
+
